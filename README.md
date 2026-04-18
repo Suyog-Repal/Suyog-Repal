@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suyog-Repal&theme=tokyo-night"/>
 </p>
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
 ![GCP](https://img.shields.io/badge/GCP-Cloud-blue?logo=googlecloud)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
