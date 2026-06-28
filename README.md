@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Suyog Repal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Software+Engineer;AI+Enthusiast;Cloud+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI+Enthusiast;Cloud+Learner;Open+Source+Contributor" />
 </p>
 
 ---
