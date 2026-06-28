@@ -5,31 +5,26 @@
 </p>
 
 ---
-
-<!-- ================= STATS ================= -->
-
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Suyog-Repal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10" 
-    height="170"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Suyog-Repal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=10&hide_border=false&rank_icon=github"
+    height="180"
   />
-  
-  <img 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Suyog-Repal&theme=tokyonight&border_radius=10" 
-    height="170"
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Suyog-Repal&theme=tokyonight&border_radius=10&hide_border=false"
+    height="180"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog-Repal&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" 
-    height="150"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog-Repal&layout=compact&theme=tokyonight&langs_count=8&border_radius=10&hide_border=false&card_width=467"
+    height="180"
   />
 </p>
 
----
 
 <!-- ================= GRAPH ================= -->
 
