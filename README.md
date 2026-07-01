@@ -51,7 +51,6 @@
     <td align="right">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -85,9 +84,6 @@
     <td>Animation</td>
     <td align="right">
       <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Lottie-00DDB3?style=flat-square&logo=lottiefiles&logoColor=black"/>
-      <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white"/>
     </td>
   </tr>
 
@@ -119,8 +115,6 @@
     <td align="right">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Convex-EE342A?style=flat-square&logo=convex&logoColor=white"/>
     </td>
   </tr>
 
@@ -130,7 +124,6 @@
     <td>Identity Management</td>
     <td align="right">
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      <img src="https://img.shields.io/badge/BetterAuth-4F46E5?style=flat-square&logo=auth0&logoColor=white"/>
       <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
     </td>
