@@ -206,7 +206,7 @@
     <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge"/>
   </a>
 
-  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+  <a href="https://leetcode.com/u/Suyog-Leet/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
