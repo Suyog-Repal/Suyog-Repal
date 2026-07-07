@@ -191,8 +191,23 @@
 
 <!-- ================= TROPHIES ================= -->
 
-## 🏆 Achievements  
+## ⚡ Competitive Programming
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suyog-Repal&theme=tokyonight"/>
+  <a href="https://codeforces.com/profile/Suyog_Repal">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/gaze_space_86">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+  </a>
+
+  <a href="https://atcoder.jp/users/suyogac">
+    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge"/>
+  </a>
+
+  <a href="https://leetcode.com/u/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
+
